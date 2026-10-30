@@ -1,0 +1,60 @@
+{
+  "isInvoice": true,
+  "supplierName": "Sunrise Stationers Pvt Ltd",
+  "supplierGstin": "27AABCS4412Q1Z2",
+  "buyerName": "Kavya Traders",
+  "buyerGstin": "27AAFFK5678L1ZO",
+  "invoiceNumber": "SS/2026/0412",
+  "invoiceDate": "14/03/2026",
+  "placeOfSupply": "Maharashtra (27)",
+  "lines": [
+    {
+      "description": "A4 copier paper 75 GSM",
+      "hsn": "4802",
+      "quantity": 40,
+      "unit": "REAM",
+      "rate": 285,
+      "taxableValue": 11400,
+      "gstRate": 12,
+      "cgst": 684,
+      "sgst": 684,
+      "igst": null,
+      "lineTotal": 12768
+    },
+    {
+      "description": "Ball pen box (50 pcs)",
+      "hsn": "9608",
+      "quantity": 12,
+      "unit": "BOX",
+      "rate": 180,
+      "taxableValue": 2160,
+      "gstRate": 18,
+      "cgst": 194.4,
+      "sgst": 194.4,
+      "igst": null,
+      "lineTotal": 2548.8
+    },
+    {
+      "description": "Heavy duty stapler",
+      "hsn": "8472",
+      "quantity": 6,
+      "unit": "NOS",
+      "rate": 449.5,
+      "taxableValue": 2697,
+      "gstRate": 18,
+      "cgst": 242.73,
+      "sgst": 242.73,
+      "igst": null,
+      "lineTotal": 3182.46
+    }
+  ],
+  "totals": {
+    "taxableValue": 16257,
+    "cgst": 1121.13,
+    "sgst": 1121.13,
+    "igst": 0,
+    "roundOff": -0.26,
+    "grandTotal": 18499
+  },
+  "uncertainFields": []
+}

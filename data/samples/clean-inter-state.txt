@@ -1,0 +1,25 @@
+TAX INVOICE
+
+Deccan Hardware LLP
+7 Industrial Layout, Bengaluru, Karnataka 560010
+GSTIN: 29AAFFD9021H1ZF
+
+Invoice No: DH/26-27/0087        Date: 02/05/2026
+Place of Supply: Delhi (07)
+
+Bill To:
+Orchid Interiors
+21 Lodhi Estate, New Delhi 110003
+GSTIN: 07AAEPO3318M1ZJ
+
+#  Description                   HSN    Qty  Unit  Rate      Taxable    GST%  IGST     
+1  Stainless steel hinges 4 inch 8302   150  NOS   62.75     9412.50    18    1694.25  
+2  Cabinet handle set            8302   80   SET   118.00    9440.00    18    1699.20  
+
+Total Taxable Value: 18852.50
+IGST: 3393.45
+Round off: 0.05
+GRAND TOTAL: Rs. 22246.00
+
+Declaration: We declare that this invoice shows the actual price of the goods described.
+This is a computer generated sample invoice for a FICTIONAL business.

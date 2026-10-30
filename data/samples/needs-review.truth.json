@@ -1,0 +1,47 @@
+{
+  "isInvoice": true,
+  "supplierName": "Greenfield Agro Supplies",
+  "supplierGstin": "27AAHFG7745C1ZD",
+  "buyerName": "Patel Farm Inputs",
+  "buyerGstin": "24AAGFP1156D1ZO",
+  "invoiceNumber": "GA/0231",
+  "invoiceDate": "21/06/2026",
+  "placeOfSupply": "Gujarat (24)",
+  "lines": [
+    {
+      "description": "NPK fertiliser 50 kg bag",
+      "hsn": "3105",
+      "quantity": 25,
+      "unit": "BAG",
+      "rate": 1250,
+      "taxableValue": 31250,
+      "gstRate": 5,
+      "cgst": 781.25,
+      "sgst": 781.25,
+      "igst": null,
+      "lineTotal": 32812.5
+    },
+    {
+      "description": "Drip irrigation kit",
+      "hsn": "8424",
+      "quantity": 8,
+      "unit": "KIT",
+      "rate": 1250,
+      "taxableValue": 10000,
+      "gstRate": 12,
+      "cgst": 600,
+      "sgst": 600,
+      "igst": null,
+      "lineTotal": 11200
+    }
+  ],
+  "totals": {
+    "taxableValue": 41250,
+    "cgst": 1381.25,
+    "sgst": 1381.25,
+    "igst": 0,
+    "roundOff": 0.5,
+    "grandTotal": 44013
+  },
+  "uncertainFields": []
+}

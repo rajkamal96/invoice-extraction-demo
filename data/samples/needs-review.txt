@@ -1,0 +1,26 @@
+TAX INVOICE
+
+Greenfield Agro Supplies
+3 APMC Yard, Nashik, Maharashtra 422001
+GSTIN: 27AAHFG7745C1ZD
+
+Invoice No: GA/0231        Date: 21/06/2026
+Place of Supply: Gujarat (24)
+
+Bill To:
+Patel Farm Inputs
+90 Ring Road, Surat, Gujarat 395002
+GSTIN: 24AAGFP1156D1ZO
+
+#  Description                   HSN    Qty  Unit  Rate      Taxable    GST%  CGST     SGST     
+1  NPK fertiliser 50 kg bag      3105   25   BAG   1250.00   31250.00   5     781.25   781.25   
+2  Drip irrigation kit           8424   8    KIT   1250.00   10000.00   12    600.00   600.00   
+
+Total Taxable Value: 41250.00
+CGST: 1381.25
+SGST: 1381.25
+Round off: 0.50
+GRAND TOTAL: Rs. 44013.00
+
+Declaration: We declare that this invoice shows the actual price of the goods described.
+This is a computer generated sample invoice for a FICTIONAL business.

@@ -1,0 +1,47 @@
+{
+  "isInvoice": true,
+  "supplierName": "Deccan Hardware LLP",
+  "supplierGstin": "29AAFFD9021H1ZF",
+  "buyerName": "Orchid Interiors",
+  "buyerGstin": "07AAEPO3318M1ZJ",
+  "invoiceNumber": "DH/26-27/0087",
+  "invoiceDate": "02/05/2026",
+  "placeOfSupply": "Delhi (07)",
+  "lines": [
+    {
+      "description": "Stainless steel hinges 4 inch",
+      "hsn": "8302",
+      "quantity": 150,
+      "unit": "NOS",
+      "rate": 62.75,
+      "taxableValue": 9412.5,
+      "gstRate": 18,
+      "cgst": null,
+      "sgst": null,
+      "igst": 1694.25,
+      "lineTotal": 11106.75
+    },
+    {
+      "description": "Cabinet handle set",
+      "hsn": "8302",
+      "quantity": 80,
+      "unit": "SET",
+      "rate": 118,
+      "taxableValue": 9440,
+      "gstRate": 18,
+      "cgst": null,
+      "sgst": null,
+      "igst": 1699.2,
+      "lineTotal": 11139.2
+    }
+  ],
+  "totals": {
+    "taxableValue": 18852.5,
+    "cgst": 0,
+    "sgst": 0,
+    "igst": 3393.45,
+    "roundOff": 0.05,
+    "grandTotal": 22246
+  },
+  "uncertainFields": []
+}

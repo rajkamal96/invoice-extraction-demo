@@ -1,0 +1,27 @@
+TAX INVOICE
+
+Sunrise Stationers Pvt Ltd
+12 Market Road, Mumbai, Maharashtra 400001
+GSTIN: 27AABCS4412Q1Z2
+
+Invoice No: SS/2026/0412        Date: 14/03/2026
+Place of Supply: Maharashtra (27)
+
+Bill To:
+Kavya Traders
+48 Station Lane, Pune, Maharashtra 411001
+GSTIN: 27AAFFK5678L1ZO
+
+#  Description                   HSN    Qty  Unit  Rate      Taxable    GST%  CGST     SGST     
+1  A4 copier paper 75 GSM        4802   40   REAM  285.00    11400.00   12    684.00   684.00   
+2  Ball pen box (50 pcs)         9608   12   BOX   180.00    2160.00    18    194.40   194.40   
+3  Heavy duty stapler            8472   6    NOS   449.50    2697.00    18    242.73   242.73   
+
+Total Taxable Value: 16257.00
+CGST: 1121.13
+SGST: 1121.13
+Round off: -0.26
+GRAND TOTAL: Rs. 18499.00
+
+Declaration: We declare that this invoice shows the actual price of the goods described.
+This is a computer generated sample invoice for a FICTIONAL business.
